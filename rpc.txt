@@ -7,7 +7,7 @@
             "https://ethereum-rpc.publicnode.com",
             "wss://ethereum-rpc.publicnode.com",
             "https://mainnet.gateway.tenderly.co",
-            "wss://mainnet.gateway.tenderly.co",
+            "https://ethereum-rpc.publicnode.com",
             "https://rpc.blocknative.com/boost",
             "https://rpc.flashbots.net",
             "https://rpc.flashbots.net/fast",
@@ -27,9 +27,11 @@
         ]
     },
     {
-        "name": "Ropsten",
-        "title": "Ethereum Testnet Ropsten",
-        "rpc": []
+        "name": "Sepolia testnet",
+        "title": "Sepolia testnet",
+        "rpc": [
+            "https://ethereum-sepolia-rpc.publicnode.com"
+        ]
     },
     {
         "name": "Rinkeby",
