@@ -12095,7 +12095,7 @@
         "chainId": 84531
     },
     {
-        "name": "DeFiChain",
+        "name": "Sepolia testnet",
         "rpc": [
             "https://sepolia.base.org",
             "https://base-sepolia-rpc.publicnode.com"
