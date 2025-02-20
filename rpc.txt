@@ -3,7 +3,7 @@
 "rpc":"https://cloudflare-eth.com"
 "rpc":"https://ethereum-rpc.publicnode.com"
 "rpc":"https://mainnet.gateway.tenderly.co"
-"rpc":"https://rpc.blocknative.com/boost"
+"rpc":"https://ethereum-rpc.publicnode.com"
 "rpc":"https://rpc.flashbots.net"
 "rpc":"https://rpc.flashbots.net/fast"
 "rpc":"https://rpc.mevblocker.io"
