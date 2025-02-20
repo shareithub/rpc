@@ -24,8 +24,8 @@
 "https://ethereum.dex.guru
 "name":"Routescan"
 "https://ethereum.routescan.io
-"name":"Expanse Network"
-"https://node.expanse.tech
+"name":"sepolia testnet"
+"https://ethereum-sepolia-rpc.publicnode.com
 "name":"Expanse Network Ether"
 "https://expanse.tech
 "name":"Ropsten"
