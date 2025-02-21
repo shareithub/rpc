@@ -62,10 +62,9 @@
         ]
     },
     {
-        "name": "Ubiq",
+        "name": "Alps",
         "rpc": [
-            "https://rpc.octano.dev",
-            "https://pyrus2.ubiqscan.io"
+            "https://rpc-alps.dill.xyz"
         ]
     },
     {
