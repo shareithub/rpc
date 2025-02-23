@@ -228,7 +228,7 @@
         ]
     },
     {
-        "name": "Nexus Testnet",
+        "name": "Nexus Testnet II",
         "rpc": [
             "https://nexus.rpc.caldera.xyz"
         ]
