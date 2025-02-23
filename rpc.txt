@@ -228,10 +228,9 @@
         ]
     },
     {
-        "name": "Rootstock Testnet",
+        "name": "Nexus Testnet",
         "rpc": [
-            "https://public-node.testnet.rsk.co",
-            "https://mycrypto.testnet.rsk.co"
+            "https://nexus.rpc.caldera.xyz"
         ]
     },
     {
