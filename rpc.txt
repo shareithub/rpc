@@ -34,9 +34,11 @@
         ]
     },
     {
-        "name": "Rinkeby",
-        "title": "Ethereum Testnet Rinkeby",
-        "rpc": []
+        "name": "Humanity",
+        "title": "Humanity testnet",
+        "rpc": [
+        "rpc.testnet.humanity.org"
+        ]
     },
     {
         "name": "Goerli",
